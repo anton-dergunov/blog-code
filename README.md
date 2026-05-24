@@ -1,5 +1,5 @@
-# blog-code
+# Code accompanying my blog posts
 
-Code accompanying my blog posts. Each directory corresponds to a single post and is named by publication date and topic (e.g. `2024-07-maximal-marginal-relevance`).
+## [2024-07-maximal-marginal-relevance/maximal_marginal_relevance.ipynb](2024-07-maximal-marginal-relevance/maximal_marginal_relevance.ipynb)
 
-Larger multi-part series live in their own repositories.
+Code for the blog post "Maximal Marginal Relevance"
